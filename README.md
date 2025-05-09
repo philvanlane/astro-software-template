@@ -4,3 +4,5 @@ This repo is designed to be a starting point for anyone planning to release soft
 ## How this repo was constructed
 1. Repo was created on GitHub and cloned locally.
 2. React app was created using create-react-app.
+3. Make the app a GitHub page using https://github.com/gitname/react-gh-pages.
+4. Configured ReadTheDocs with https://docs.readthedocs.com/platform/stable/tutorial/.
