@@ -1,5 +1,5 @@
 <p align="center">
-  <img width = "500" src="./images/star-icon.png"/>
+  <img width = "200" src="./images/star-icon.png"/>
 </p>
 
 # astro-software-template
