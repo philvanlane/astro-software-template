@@ -1,4 +1,4 @@
-Welcome to MyProject's documentation!
+Welcome to Astro Software Template's documentation!
 =====================================
 
 .. toctree::
