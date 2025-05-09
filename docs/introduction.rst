@@ -1,32 +1,17 @@
 Introduction
 ============
 
-Welcome to **MyProject**!
+Welcome to **Astro Software Template**!
 
-This project aims to provide a clear, efficient, and well-documented toolkit for users interested in doing X, Y, and Z.
+This project aims to provide a starting point for anyone at U of T Astro .
 
-Goals
------
-
-- Provide simple interfaces for common tasks
-- Enable advanced usage via extensible APIs
-- Offer thorough documentation and examples
-
-What is MyProject?
+What is Astro Software Template?
 ------------------
 
-*MyProject* is a Python package designed to simplify workflows involving:
-
-- Data ingestion and preprocessing
-- Model training and evaluation
-- Visualization and analysis
-
-It is built on top of popular open-source libraries such as NumPy, Pandas, and Matplotlib.
+Astro Software Template is a gateway to your wildest dreams!
 
 Getting Started
 ---------------
 
-If you're new, check out the :doc:`installation` page to set up your environment.
-
-Once installed, see the :doc:`usage` guide for your first example.
+Let's get it started in here!!!
 

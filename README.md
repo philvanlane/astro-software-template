@@ -7,3 +7,5 @@ This repo is designed to be a starting point for anyone planning to release soft
 3. Make the app a GitHub page using https://github.com/gitname/react-gh-pages.
 4. Configured ReadTheDocs with https://docs.readthedocs.com/platform/stable/tutorial/.
 5. pip install sphinx-rtd-theme
+
+## And so much more info about me!!!

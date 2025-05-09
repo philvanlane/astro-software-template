@@ -6,6 +6,9 @@ function App() {
       <header className="app-header">
         Hi! I'm a web app! I do things!
       </header>
+      <div className="image">
+        <img src={`${process.env.PUBLIC_URL}/tml.png`} className="tml" alt="GO LEAFS GO" />
+      </div>
       <div className='app-body'>
       You can see my source code <a href="https://github.com/philvanlane/astro-software-template" target="_blank" rel="noopener noreferrer">here.</a>
       <br></br>
